@@ -27,7 +27,7 @@ jobs:
       with:
         name: angle-aar
         path: ./app/libs
-        repo: MojoLauncher/angle-builder
+        repo: whitebelyash/angle-builder
         workflow: blank.yml
         workflow_conclusion: success
 
